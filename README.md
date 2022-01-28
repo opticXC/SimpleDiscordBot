@@ -34,6 +34,6 @@ Nextly, `description` and `format` field are necessary or it will break the help
 
 ---
 
-## Hosting
+## Hosting on replit for free
 
 The `server.js` file creates an HTTP server which in turn, generates a URL of the format `https://my-repl-name--my-username.repl.co` that you can ping using services such as uptimerobot. If you have the hacker plan, you can skip this and use the `Always on repl` feature.
